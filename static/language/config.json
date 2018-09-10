@@ -1,0 +1,789 @@
+{
+  "name": {
+    "cn": "智能零售分析系统",
+    "en": "智能零售分析系统",
+    "hk": "智能零售分析系統"
+  },
+  "MenuList": {
+    "cn": "菜单列表",
+    "en": "Menu",
+    "hk": "菜單列表"
+  },
+  "Overview": {
+    "cn": "整体概况",
+    "en": "Overall situation",
+    "hk": "整體概況"
+  },
+  "BaseAnalysis": {
+    "cn": "基础分析",
+    "en": "Base analysis",
+    "hk": "基礎分析"
+  },
+  "AreaOverview": {
+    "cn": "地区概况",
+    "en": "Regional overview",
+    "hk": "地區概況"
+  },
+  "AreaTotalOverview": {
+    "cn": "地区总体概况",
+    "en": "Regional Overview",
+    "hk": "地區總體概況"
+  },
+  "StoreTotalOverview": {
+    "cn": "门店总体概况",
+    "en": "Store Overview",
+    "hk": "門店總體概況"
+  },
+  "AdvancedAnalysis": {
+    "cn": "高级分析",
+    "en": "Advanced analysis",
+    "hk": "高級分析"
+  },
+  "PassengerFlow": {
+    "cn": "店铺客流",
+    "en": "customer flow",
+    "hk": "店鋪客流"
+  },
+  "ThermalMap": {
+    "cn": "热力分布",
+    "en": "Thermal Map",
+    "hk": "热力分布"
+  },
+  "ReportAnalysis": {
+    "cn": "报表分析",
+    "en": "Report analysis",
+    "hk": "報表分析"
+  },
+  "RemotePatrol": {
+    "cn": "远程巡店",
+    "en": "Long distance patrol shop",
+    "hk": "遠程巡店"
+  },
+  "FittingAnalysis": {
+    "cn": "店铺试衣分析",
+    "en": "Fitting room analysis",
+    "hk": "店鋪試衣分析"
+  },
+  "IndependentStore": {
+    "cn": "独立门店",
+    "en": "Independent Store",
+    "hk": "獨立門店"
+  },
+  "CycleComparison": {
+    "cn": "周期对比分析",
+    "en": "Cycle Comparison Analysis",
+    "hk": "週期對比分析"
+  },
+  "StoreComparison": {
+    "cn": "门店对比分析",
+    "en": "Store Comparison Analysis",
+    "hk": "門店對比分析"
+  },
+  "Setting": {
+    "cn": "配置管理",
+    "en": "Configuration management",
+    "hk": "配置管理"
+  },
+  "UserManagement": {
+    "cn": "用户管理",
+    "en": "User Management",
+    "hk": "用戶管理"
+  },
+  "DataManagement": {
+    "cn": "数据管理",
+    "en": "Data Management",
+    "hk": "數據管理"
+  },
+  "Profile": {
+    "cn": "账号设置",
+    "en": "Profile",
+    "hk": "賬號設置"
+  },
+  "SignOut": {
+    "cn": "退出账号",
+    "en": "Sign out",
+    "hk": "退出賬號"
+  },
+  "Store": {
+    "cn": "门店",
+    "en": "Store",
+    "hk": "門店"
+  },
+  "StoreInput": {
+    "cn": "请选择门店",
+    "en": "please select a store",
+    "hk": "請選擇門店"
+  },
+  "Yesterday": {
+    "cn": "昨天",
+    "en": "Yesterday",
+    "hk": "昨天"
+  },
+  "Last_7_days": {
+    "cn": "近7日",
+    "en": "Last 7 days",
+    "hk": "近7日"
+  },
+  "Last_30_days": {
+    "cn": "近30日",
+    "en": "Last 30 days",
+    "hk": "近30日"
+  },
+  "Area": {
+    "cn": "地区",
+    "en": "Regions",
+    "hk": "地區"
+  },
+  "AreaAcount": {
+    "cn": "地区总数",
+    "en": "Total",
+    "hk": "地區總數"
+  },
+  "areaInput": {
+    "cn": "请选择地区",
+    "en": "please select an regions",
+    "hk": "請選擇地區"
+  },
+  "areaAcountInput": {
+    "cn": "请输入地区总数",
+    "en": "please enter the total number of regions",
+    "hk": "請輸入地區總數"
+  },
+  "PassengerFlowToday": {
+    "cn": "客流人数",
+    "en": "Customer Flow",
+    "hk": "客流人數"
+  },
+  "Sales": {
+    "cn": "销售额",
+    "en": "Sales",
+    "hk": "銷售額"
+  },
+  "TurnoverRate": {
+    "cn": "成交率",
+    "en": "Turnover rate",
+    "hk": "成交率"
+  },
+  "JointRate": {
+    "cn": "连带率",
+    "en": "Joint rate",
+    "hk": "連帶率"
+  },
+  "RegionalTOPList": {
+    "cn": "地区TOP",
+    "en": "Regional TOP list",
+    "hk": "地區TOP"
+  },
+  "And": {
+    "cn": "与",
+    "en": "And",
+    "hk": "與"
+  },
+  "PassengerFlowAnalysis": {
+    "cn": "客流分析",
+    "en": "Customer flow analysis",
+    "hk": "客流分析"
+  },
+  "NumberOfStores": {
+    "cn": "进店数（人）",
+    "en": "Number of stores （person）",
+    "hk": "進店數（人）"
+  },
+  "Week": [
+    {
+      "cn": "周一",
+      "en": "Mon",
+      "hk": "週一"
+    },
+    {
+      "cn": "周二",
+      "en": "Tue",
+      "hk": "週二"
+    },
+    {
+      "cn": "周三",
+      "en": "Wed",
+      "hk": "週三"
+    },
+    {
+      "cn": "周四",
+      "en": "Thu",
+      "hk": "週四"
+    },
+    {
+      "cn": "周五",
+      "en": "Fry",
+      "hk": "週五"
+    },
+    {
+      "cn": "周六",
+      "en": "Sat",
+      "hk": "週六"
+    },
+    {
+      "cn": "周日",
+      "en": "Sun",
+      "hk": "週日"
+    }
+  ],
+  "StoreIndicatorOverview": {
+    "cn": "门店指标总况",
+    "en": "Store Indicator Overview",
+    "hk": "門店指標總況"
+  },
+  "IndexComparison": {
+    "cn": "指标对比",
+    "en": "Index Comparison",
+    "hk": "指標對比"
+  },
+  "DailyMarketingAmount": {
+    "cn": "日营销额",
+    "en": "Daily marketing amount",
+    "hk": "日營銷額"
+  },
+  "MonthlyIndicator": {
+    "cn": "月目标",
+    "en": "Monthly indicator",
+    "hk": "月目標"
+  },
+  "AccumulatedSales": {
+    "cn": "累计销售额",
+    "en": "Accumulated sales",
+    "hk": "累計銷售額"
+  },
+  "WeatherTrend": {
+    "cn": "天气趋势",
+    "en": "Weather Trend",
+    "hk": "天氣趨勢"
+  },
+  "DaytimeTemperature": {
+    "cn": "白天气温",
+    "en": "Daytime temperature",
+    "hk": "白天氣溫"
+  },
+  "NightTemperature": {
+    "cn": "夜晚气温",
+    "en": "Night temperature",
+    "hk": "夜晚氣溫"
+  },
+  "Date": {
+    "cn": "日期",
+    "en": "Date",
+    "hk": "日期"
+  },
+  "DateInput": {
+    "cn": "请选择日期",
+    "en": "please select a date",
+    "hk": "請選擇日期"
+  },
+  "Time": {
+    "cn": "时间",
+    "en": "Date",
+    "hk": "時間"
+  },
+  "TimeInput": {
+    "cn": "请选择时间",
+    "en": "please select time",
+    "hk": "請選擇時間"
+  },
+  "Cycle": {
+    "cn": "周期",
+    "en": "Cycle",
+    "hk": "週期"
+  },
+  "CycleInput": {
+    "cn": "请选择周期",
+    "en": "please select the period",
+    "hk": "請選擇週期"
+  },
+  "hour": {
+    "cn": "时",
+    "en": "hour",
+    "hk": "時"
+  },
+  "day": {
+    "cn": "天",
+    "en": "day",
+    "hk": "天"
+  },
+  "week": {
+    "cn": "周",
+    "en": "week",
+    "hk": "周"
+  },
+  "month": {
+    "cn": "月",
+    "en": "month",
+    "hk": "月"
+  },
+  "Search": {
+    "cn": "查询",
+    "en": "Query",
+    "hk": "查詢"
+  },
+  "PassengerFlowData": {
+    "cn": "客流数据",
+    "en": "Customer flow data",
+    "hk": "客流數據"
+  },
+  "MaleToFemaleRatio": {
+    "cn": "男女比例",
+    "en": "Male to female ratio",
+    "hk": "男女比例"
+  },
+  "MaleToFemaleRatioFitting": {
+    "cn": "试衣男女比例",
+    "en": "Fitting ratio of male and female",
+    "hk": "試衣男女比例"
+  },
+  "Male": {
+    "cn": "男性",
+    "en": "Male",
+    "hk": "男性"
+  },
+  "Female": {
+    "cn": "女性",
+    "en": "Female",
+    "hk": "女性"
+  },
+  "ratio": {
+    "cn": "比例",
+    "en": "ratio",
+    "hk": "比例"
+  },
+  "AgeDistribution": {
+    "cn": "年龄分布",
+    "en": "Age ratio",
+    "hk": "年齡分佈"
+  },
+  "AgeDistributionFitting": {
+    "cn": "试衣年龄分布",
+    "en": "Fitting age distribution",
+    "hk": "試衣年齡分佈"
+  },
+  "TimePeriodRatio": {
+    "cn": "时间段比例",
+    "en": "Time piodRatio",
+    "hk": "時間段比例"
+  },
+  "DataDetail": {
+    "cn": "数据明细",
+    "en": "Data Detail",
+    "hk": "數據明細"
+  },
+  "NumberOfPassengers": {
+    "cn": "客流人数",
+    "en": "The no.of customer flow",
+    "hk": "客流人數"
+  },
+  "SortByStoreName": {
+    "cn": "按照店铺名称排序",
+    "en": "sort by store name",
+    "hk": "按照店鋪名稱排序"
+  },
+  "SortByTime": {
+    "cn": "按照时间排序",
+    "en": "sort by time",
+    "hk": "按照時間排序"
+  },
+  "SortByNumberOfPassengers": {
+    "cn": "按照客流人数排序",
+    "en": "sort by number of customer flow",
+    "hk": "按照客流人數排序"
+  },
+  "Lens": {
+    "cn": "镜头",
+    "en": "Lens",
+    "hk": "鏡頭"
+  },
+  "LensInput": {
+    "cn": "请选择镜头",
+    "en": "please choose the lens",
+    "hk": "請選擇鏡頭"
+  },
+  "ThermalMapForLens": {
+    "cn": "镜头热力图",
+    "en": "Thermal map for lens",
+    "hk": "鏡頭熱力圖"
+  },
+  "Export": {
+    "cn": "导出",
+    "en": "Export",
+    "hk": "導出"
+  },
+  "ReportType": {
+    "cn": "类型",
+    "en": "Type",
+    "hk": "類型"
+  },
+  "ReportTypeInput": {
+    "cn": "请选择类型",
+    "en": "please choose the type",
+    "hk": "請選擇類型"
+  },
+  "dailyReport": {
+    "cn": "日报",
+    "en": "daily",
+    "hk": "日報"
+  },
+  "weeklyReport": {
+    "cn": "周报",
+    "en": "weekly",
+    "hk": "週報"
+  },
+  "monthlyReport": {
+    "cn": "月报",
+    "en": "monthly",
+    "hk": "月報"
+  },
+  "ReportDetail": {
+    "cn": "报表明细",
+    "en": "Report Detail",
+    "hk": "報表明細"
+  },
+  "StoreInfo": {
+    "cn": "门店信息",
+    "en": "Store information",
+    "hk": "門店信息"
+  },
+  "Performance": {
+    "cn": "业绩",
+    "en": "Achievement",
+    "hk": "業績"
+  },
+  "ReachedDaily": {
+    "cn": "日达成",
+    "en": "Day sales volume",
+    "hk": "日達成"
+  },
+  "DailyIndicator": {
+    "cn": "日指标",
+    "en": "Day achievement",
+    "hk": "日指標"
+  },
+  "DailySales": {
+    "cn": "日销额",
+    "en": "daily sales",
+    "hk": "日銷額"
+  },
+  "Year_on_yearSales": {
+    "cn": "同比销额",
+    "en": "Year-on-year sales volume",
+    "hk": "同比銷額"
+  },
+  "Year_on_yearIncrease": {
+    "cn": "同比增幅",
+    "en": "Year-on-year increase",
+    "hk": "同比增幅"
+  },
+  "DailyEvent": {
+    "cn": "每日活动",
+    "en": "Daily activities",
+    "hk": "每日活動"
+  },
+  "EventDate": {
+    "cn": "活动日期",
+    "en": "Date of activity",
+    "hk": "活動日期"
+  },
+  "EventDateInput": {
+    "cn": "请选择活动日期",
+    "en": "please select an activity date",
+    "hk": "請選擇活動日期"
+  },
+  "EventName": {
+    "cn": "门店活动",
+    "en": "Shop activities",
+    "hk": "門店活動"
+  },
+  "EventNameInput": {
+    "cn": "请填写门店活动",
+    "en": "please fill in the store activity",
+    "hk": "請填寫門店活動"
+  },
+  "EventDesc": {
+    "cn": "引流策略",
+    "en": "Drainage Strategy",
+    "hk": "引流策略"
+  },
+  "EventDescInput": {
+    "cn": "请填写引流策略",
+    "en": "please fill in the drainage strategy",
+    "hk": "請填寫引流策略"
+  },
+  "Confirm": {
+    "cn": "确定",
+    "en": "Confirm",
+    "hk": "確定"
+  },
+  "VideoPlayback": {
+    "cn": "视频播放",
+    "en": "Video Playback",
+    "hk": "視頻播放"
+  },
+  "DestinationRegions": {
+    "cn": "所属地区",
+    "en": "Affiliated area",
+    "hk": "所屬地區"
+  },
+  "DestinationRegionsInput": {
+    "cn": "请选择所属地区",
+    "en": "please select an affiliated area",
+    "hk": "請選擇所屬地區"
+  },
+  "CoreIndicator": {
+    "cn": "核心指标",
+    "en": "Core indicator",
+    "hk": "核心指標"
+  },
+  "CoreIndicatorInput": {
+    "cn": "请选择核心指标",
+    "en": "please select a core indicatorInput",
+    "hk": "請選擇核心指標"
+  },
+  "ComparisonType": {
+    "cn": "对比类型",
+    "en": "Type",
+    "hk": "對比類型"
+  },
+  "ComparisonTypeInput": {
+    "cn": "请选择对比类型",
+    "en": "please select a type",
+    "hk": "請選擇對比類型"
+  },
+  "ComparisonDate": {
+    "cn": "对比日期",
+    "en": "Comparison Date",
+    "hk": "對比日期"
+  },
+  "DataAnalysisChart": {
+    "cn": "数据分析图",
+    "en": "Data Analysis Chart",
+    "hk": "數據分析圖"
+  },
+  "DataRecord": {
+    "cn": "数据记录",
+    "en": "Data record",
+    "hk": "數據記錄"
+  },
+  "Volume": {
+    "cn": "成交情况",
+    "en": "Volume",
+    "hk": "成交情況"
+  },
+  "CustomerPrice": {
+    "cn": "客单价",
+    "en": "Invoice",
+    "hk": "客單價"
+  },
+  "NumberOfStores1": {
+    "cn": "进店数",
+    "en": "number of stores",
+    "hk": "進店數"
+  },
+  "NumberOfReceptions": {
+    "cn": "接待数",
+    "en": "number of receptions",
+    "hk": "接待數"
+  },
+  "ContrastStore": {
+    "cn": "对比门店",
+    "en": "Contrast store",
+    "hk": "對比門店"
+  },
+  "ContrastStoreInput": {
+    "cn": "请至少选择两个门店",
+    "en": "please select at least two stores",
+    "hk": "請至少選擇兩個門店"
+  },
+  "SearchUser": {
+    "cn": "搜索用户",
+    "en": "search user",
+    "hk": "搜索用戶"
+  },
+  "IncreaseUser": {
+    "cn": "新增用户",
+    "en": "Increase User",
+    "hk": "新增用戶"
+  },
+  "UserName": {
+    "cn": "用户名",
+    "en": "User name",
+    "hk": "用戶名"
+  },
+  "Role": {
+    "cn": "角色",
+    "en": "Role",
+    "hk": "角色"
+  },
+  "Permission": {
+    "cn": "权限",
+    "en": "Permission",
+    "hk": "權限"
+  },
+  "AccountStatus": {
+    "cn": "账户状态",
+    "en": "State",
+    "hk": "賬戶狀態"
+  },
+  "Option": {
+    "cn": "操作",
+    "en": "Option",
+    "hk": "操作"
+  },
+  "View": {
+    "cn": "查看",
+    "en": "View",
+    "hk": "查看"
+  },
+  "Edit": {
+    "cn": "编辑",
+    "en": "Edit",
+    "hk": "編輯"
+  },
+  "Detelte": {
+    "cn": "删除",
+    "en": "Detelte",
+    "hk": "刪除"
+  },
+  "IncreaseData": {
+    "cn": "新增数据",
+    "en": "Increase Data",
+    "hk": "新增數據"
+  },
+  "DataID": {
+    "cn": "数据编号",
+    "en": "Data ID",
+    "hk": "數據編號"
+  },
+  "StoreName": {
+    "cn": "店铺名称",
+    "en": "Store name",
+    "hk": "店鋪名稱"
+  },
+  "UpdateTime": {
+    "cn": "更新时间",
+    "en": "Update time",
+    "hk": "更新時間"
+  },
+  "DataType": {
+    "cn": "数据类型",
+    "en": "Type",
+    "hk": "數據類型"
+  },
+  "DataAmount": {
+    "cn": "数据条数",
+    "en": "Amount",
+    "hk": "数据條數"
+  },
+  "SalesData": {
+    "cn": "销售数据",
+    "en": "Sales data",
+    "hk": "銷售數據"
+  },
+  "NoComparison": {
+    "cn": "不对比",
+    "en": "No Comparison",
+    "hk": "不對比"
+  },
+  "DailyComparison": {
+    "cn": "日对比",
+    "en": "Daily Comparison",
+    "hk": "日對比"
+  },
+  "WeeklyComparison": {
+    "cn": "周对比",
+    "en": "Weekly Comparison",
+    "hk": "周對比"
+  },
+  "MonthlyComparison": {
+    "cn": "月对比",
+    "en": "Monthly Comparison",
+    "hk": "月對比"
+  },
+  "DateNode": {
+    "cn": "日期节点",
+    "en": "Date node",
+    "hk": "日期節點"
+  },
+  "DateNodeInput": {
+    "cn": "请选择日期节点",
+    "en": "please select the date node",
+    "hk": "請選擇日期節點"
+  },
+  "SalesVolume": {
+    "cn": "销售数量",
+    "en": "Sales Volume",
+    "hk": "銷售數量"
+  },
+  "SalesInput": {
+    "cn": "请输入销售金额",
+    "en": "please enter the sales amount",
+    "hk": "請輸入銷售金額"
+  },
+  "SalesVolumeInput": {
+    "cn": "请输入销售数量",
+    "en": "please enter the sales volume",
+    "hk": "請輸入銷售數量"
+  },
+  "BackstageManagement": {
+    "cn": "后台管理",
+    "en": "Backstage Management",
+    "hk": "後台管理"
+  },
+  "StoreSetting": {
+    "cn": "门店配置",
+    "en": "Store Configuration",
+    "hk": "門店配置"
+  },
+  "SystemConfiguration": {
+    "cn": "系统配置",
+    "en": "System Configuration",
+    "hk": "系統配置"
+  },
+  "SearchStore": {
+    "cn": "搜索门店",
+    "en": "search store",
+    "hk": "搜索門店"
+  },
+  "NewStore": {
+    "cn": "新增門店",
+    "en": "New Store",
+    "hk": "新增门店"
+  },
+  "AffiliatedHeadOffice": {
+    "cn": "隶属总店",
+    "en": "Affiliated Head office",
+    "hk": "隸屬總店"
+  },
+  "Administrators": {
+    "cn": "管理员",
+    "en": "Administrators",
+    "hk": "管理員"
+  },
+  "ShopSign": {
+    "cn": "门店标志",
+    "en": "ShopSign",
+    "hk": "門店標誌"
+  },
+  "OpenState": {
+    "cn": "开通状态",
+    "en": "Open State",
+    "hk": "開通狀態"
+  },
+  "OpenDate": {
+    "cn": "开通日期",
+    "en": "Open Date",
+    "hk": "開通日期"
+  },
+  "DueDate": {
+    "cn": "到期日期",
+    "en": "Due Date",
+    "hk": "到期日期"
+  },
+  "DisableAccount": {
+    "cn": "停用账号",
+    "en": "Disable Account",
+    "hk": "停用賬號"
+  }
+}
